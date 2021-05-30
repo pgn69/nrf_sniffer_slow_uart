@@ -1,4 +1,4 @@
-# nRF Sniffer for Bluetooth LE for slow UART
+# nRF Sniffer for Bluetooth LE - Slow UART
 
 [nRF Sniffer for Bluetooth LE](https://www.nordicsemi.com/Software-and-Tools/Development-Tools/nRF-Sniffer-for-Bluetooth-LE) is a useful tool for debugging and learning about Bluetooth Low Energy applications.
 
