@@ -8,5 +8,5 @@ The original original [nRF Sniffer v2.0.0](https://www.nordicsemi.com/-/media/So
 This high baudrate is not supported by some development boards such as
 the [BLE400](https://www.waveshare.com/BLE400.htm).
 
-The firmware [sniffer_pca10028_uart_115200.hex](hex/sniffer_pca10028_uart_115200.hex) sets the UART baoudrate to 115200 bps
+The firmware [sniffer_pca10028_uart_115200.hex](hex/sniffer_pca10028_uart_115200.hex) sets the UART baudrate to 115200 bps
 and the [extcap](extcap) Wireshark capture script has been modified to recognize this baudrate.
